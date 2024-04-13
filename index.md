@@ -2,15 +2,9 @@
 layout: page
 ---
 
-# About Me
+# 关于我
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+我是 **Gregorio**，一个热衷于软件工程与土木工程交叉领域的研究者。我本科毕业于**浙江大学土木工程专业**（2019.09 - 2023.06），目前在**中国科学技术大学**攻读软件工程硕士学位（2023.09 - 预计2026.06）。
 
 ## Academic Background
 
@@ -21,29 +15,40 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
+## 学术背景
+
+- **2023.09 - 预计2026.06:** 中国科学技术大学（硕士，软件工程）
+- **2019.09 - 2023.06:** 浙江大学（本科，土木工程）
+
+---
+
+# About Me
+
+I am **Gregorio**, an enthusiast in the intersection of Software Engineering and Civil Engineering. I completed my undergraduate studies in **Civil Engineering at Zhejiang University** (Sep 2019 - Jun 2023) and am currently pursuing a Master's degree in Software Engineering at **University of Science and Technology of China** (Sep 2023 - Expected Jun 2026).
+
+---
+
+## Academic Background
+
+- **Sep 2023 - Expected Jun 2026:** University of Science and Technology of China (Master's, Software Engineering)
+- **Sep 2019 - Jun 2023:** Zhejiang University (Bachelor's, Civil Engineering)
+
+---
+
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+I am particularly interested in applying advanced software engineering technologies to practical problems in civil engineering projects, especially in the areas of smart buildings and infrastructure management. I am dedicated to researching and developing innovative solutions that enhance urban sustainability and efficiency.
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+If you are interested in my research or collaboration, please contact me at:
 
+---
+
+- **Email:** gregorio[at]example[dot]com
 ---
 
 ## News and Updates
 
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
