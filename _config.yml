@@ -10,7 +10,7 @@ url: https://leaperzer0.github.io/
 # Owner information
 owner:
   name: Wang Yutong
-  avatar: yuki.jpg
+  avatar: images/yuki.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: leaperzero@gmail.com
   cv: #
@@ -78,9 +78,9 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-disqus:
-  shortname: lancecai
+# # disqus settings:
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
